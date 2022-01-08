@@ -4,6 +4,7 @@ Video to text recognition
 Демонстрационные данные доступны по следующим ссылкам:
 - https://disk.yandex.ru/i/8Vwbi_3PbFUlMA - (Видеофайл с речью средней скорости)
 - https://disk.yandex.ru/i/P3_OP9cPLYILHQ - (Видеофайл с быстрой речью)
+- https://www.youtube.com/watch?v=mSnWaYV6gd0 - (Демонстрационный файл для извлечения субтитров)
 
 Данный проект включает в себя два способа получения текста из видео на основе аудиодорожки (Speech Recognition), а также получение текста из вшитых hardcoded в видео субтитров (Optical Character Recognition).
 
